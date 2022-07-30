@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://connectnitesh.github.io/OSS-Security-Inspector",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
