@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/OSS-Security-Inspector/static/css/main.e6c13ad2.css",
-    "main.js": "/OSS-Security-Inspector/static/js/main.f135a928.js",
-    "static/js/787.28cb0dcd.chunk.js": "/OSS-Security-Inspector/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/OSS-Security-Inspector/static/css/main.e0d7e0cc.css",
+    "main.js": "/OSS-Security-Inspector/static/js/main.dccce3a2.js",
     "index.html": "/OSS-Security-Inspector/index.html",
-    "main.e6c13ad2.css.map": "/OSS-Security-Inspector/static/css/main.e6c13ad2.css.map",
-    "main.f135a928.js.map": "/OSS-Security-Inspector/static/js/main.f135a928.js.map",
-    "787.28cb0dcd.chunk.js.map": "/OSS-Security-Inspector/static/js/787.28cb0dcd.chunk.js.map"
+    "main.e0d7e0cc.css.map": "/OSS-Security-Inspector/static/css/main.e0d7e0cc.css.map",
+    "main.dccce3a2.js.map": "/OSS-Security-Inspector/static/js/main.dccce3a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.f135a928.js"
+    "static/css/main.e0d7e0cc.css",
+    "static/js/main.dccce3a2.js"
   ]
 }
