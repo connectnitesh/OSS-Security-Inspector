@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/OSS-Security-Inspector/static/css/main.e0d7e0cc.css",
-    "main.js": "/OSS-Security-Inspector/static/js/main.dccce3a2.js",
+    "main.css": "/OSS-Security-Inspector/static/css/main.0362adad.css",
+    "main.js": "/OSS-Security-Inspector/static/js/main.6c3fb6ba.js",
+    "static/media/404.svg": "/OSS-Security-Inspector/static/media/404.04bf1677a40b53e2e27ec788b8c411e5.svg",
     "index.html": "/OSS-Security-Inspector/index.html",
-    "main.e0d7e0cc.css.map": "/OSS-Security-Inspector/static/css/main.e0d7e0cc.css.map",
-    "main.dccce3a2.js.map": "/OSS-Security-Inspector/static/js/main.dccce3a2.js.map"
+    "main.0362adad.css.map": "/OSS-Security-Inspector/static/css/main.0362adad.css.map",
+    "main.6c3fb6ba.js.map": "/OSS-Security-Inspector/static/js/main.6c3fb6ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0d7e0cc.css",
-    "static/js/main.dccce3a2.js"
+    "static/css/main.0362adad.css",
+    "static/js/main.6c3fb6ba.js"
   ]
 }
