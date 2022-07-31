@@ -4,7 +4,7 @@ import Results from './Result';
 import SearchUser from './SearchUser';
 import ResultsExplainer from './ResultExplainer';
 
-import '../styles/index.scss';
+import '../style/index.scss';
 
 const App: React.FC = () => {
   return (
